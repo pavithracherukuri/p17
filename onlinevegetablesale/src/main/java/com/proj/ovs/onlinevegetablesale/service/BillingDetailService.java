@@ -20,7 +20,7 @@ public class BillingDetailService {
 BillingDetailRepo billingdetailRepo;
 @Autowired
 AddressRepo addressRepo;
-public BillingDetail createBillingDetails(BillingDetail billingDetail) {
+public BillingDetail createBillingDetail(BillingDetail billingDetail) {
 	
 	Address address=billingDetail.getBillingAddress();
 	int addressId=address.getAddressId();
