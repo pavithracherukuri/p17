@@ -7,7 +7,7 @@
 		<version>2.5.5</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.proj.ovs.java</groupId>
+	<groupId>com.proj.ovs</groupId>
 	<artifactId>onlinevegetablesale</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>onlinevegetablesale</name>
